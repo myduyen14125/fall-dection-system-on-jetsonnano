@@ -40,9 +40,13 @@ Dưới đây là cụ thể từng bước
 
 ## 2. Cài đặt system-level dependencies, python và các thư viện cần thiết
 - Xóa libreoffice để tiết kiệm bộ nhớ
-  ``` sudo apt-get purge libreoffice* ```
+  ```
+  sudo apt-get purge libreoffice*
+  ```
 - Clean, remove, update, upgrade
-  ``` sudo apt-get update && sudo apt-get clean && sudo apt-get autoremove && sudo apt-get upgrade ```
+  ```
+  sudo apt-get update && sudo apt-get clean && sudo apt-get autoremove && sudo apt-get upgrade
+  ```
 1. Cài đặt dependencies
   ```
   sudo apt-get install libatlas-base-dev gfortran
