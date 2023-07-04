@@ -62,10 +62,10 @@ Dưới đây là cụ thể từng bước
   sudo env H5PY_SETUP_REQUIRES=0 pip3 install -U h5py==3.1.0
   ```
 4. Cài đặt openCV
-   ```
-   sudo apt-get install python3-opencv 
-   sudo apt-get remove python3-opencv 
-   ```
+  ```
+  sudo apt-get install python3-opencv 
+  sudo apt-get remove python3-opencv 
+ ```
 
 
 
