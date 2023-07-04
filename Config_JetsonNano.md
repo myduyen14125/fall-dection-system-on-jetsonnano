@@ -50,6 +50,7 @@ Dưới đây là cụ thể từng bước
   sudo apt-get install nano locate
   ```
   Trên đây là những packages cần thiết cho TensowFlow và một số thư viện học máy khác.
+  
 2. Cài python và upgrade pip3
   ```
   sudo apt-get install python3-dev
