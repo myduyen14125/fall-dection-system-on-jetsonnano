@@ -4,7 +4,7 @@ This is a fall dectection system requirement, for Compter Vision and Deep Learni
 
 _Giới thiệu_
 
-<i>Có rất nhiều sự lựa chọn cho việc cài đặt và cấu hình học máy trên phần cứng nói chung và Jetson Nano nói riêng. Đây là bài viết đã được mình chọn lọc và hoạt động tốt trên phần cứng Jetson Nano Developer Kit B01. Hiện tại có rất nhiều loại Jetson Nano khác nhau, với những bản khác nhau và những hướng dẫn khác nhau có thể gây ra lỗi và làm nhiễu đối với người đọc. Repository này bao gồm 3 phần chính như sau: Cấu hình Jetson Nano; Cài đặt môi trường, thư viện; Tổng quan và hướng phát triển hệ thống phát hiện té ngã. </i>
+Có rất nhiều sự lựa chọn cho việc cài đặt và cấu hình học máy trên phần cứng nói chung và Jetson Nano nói riêng. Đây là bài viết đã được mình chọn lọc và hoạt động tốt trên phần cứng Jetson Nano Developer Kit B01. Hiện tại có rất nhiều loại Jetson Nano khác nhau, với những bản khác nhau và những hướng dẫn khác nhau có thể gây ra lỗi và làm nhiễu đối với người đọc. Repository này bao gồm 3 phần chính như sau: Cấu hình Jetson Nano; Cài đặt môi trường, thư viện; Tổng quan và hướng phát triển hệ thống phát hiện té ngã.
 
 
 
